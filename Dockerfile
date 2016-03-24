@@ -1,6 +1,6 @@
 FROM debian:latest
 
-MAINTAINER zopanix@gmail.com
+MAINTAINER david@swensond.com
 
 WORKDIR /opt
 
