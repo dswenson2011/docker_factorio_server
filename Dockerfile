@@ -12,6 +12,8 @@ EXPOSE 34197/udp
 
 VOLUME "/opt/factorio/saves"
 
+VOLUME "/opt/factorio/mods"
+
 RUN echo "# Installing curl" && \
     apt-get update && \
     apt-get install -y curl && \
