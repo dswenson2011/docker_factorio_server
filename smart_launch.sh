@@ -18,4 +18,4 @@ fi
 echo "###"
 echo "# Launching Game"
 echo "###"
-exec /opt/factorio/bin/x64/factorio --disallow-commands --start-server save.zip
+exec /opt/factorio/bin/x64/factorio --start-server save.zip
